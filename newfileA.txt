@@ -1,1 +1,2 @@
 This is newly added text to newfileA.txt
+Adding text to a committed file

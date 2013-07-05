@@ -1,0 +1,2 @@
+This is newly added text to newfileB.txt
+This is newly added text to newfileB.txt
